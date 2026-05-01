@@ -1,0 +1,14 @@
+{
+    "answer": "Here are 3 recent LinkedIn roles in Singapore that explicitly mention LangChain:\n\n1) Agentic AI Developer [Python, LLM, LangChain] — Luxoft Singapore (Singapore)\n- Why relevant: Mentions “LangChain” and agentic AI directly.\n- Key responsibilities: Design and develop agentic AI applications with prompt engineering and LangChain; build scalable Python solutions; integrate cloud platforms (e.g., Azure); perform reviews, testing, and debugging.\n- Requirements snapshot: Bachelor’s/Master’s in CS/AI or equivalent; 3+ years GenAI with LLMs and LangChain; strong Python; cloud deployment experience; familiarity with AI lifecycle and SDLC best practices.\n- Link: https://sg.linkedin.com/jobs/view/agentic-ai-developer-python-llm-langchain-at-luxoft-singapore-4346519373\n\n2) AI Engineer (Remote) — Jobs Ai (Singapore)\n- Why relevant: Requires experience with at least one AI framework such as LangChain.\n- Key responsibilities: Build production LLM apps (RAG pipelines, agents, fine-tuning, evaluations); optimize inference latency/throughput/cost; design prompts and evaluations; work with embeddings, retrievers, and vector DBs; ship user-facing AI features.\n- Requirements snapshot: 2+ years SWE, 1+ year working with LLMs; strong Python; experience with LangChain/LlamaIndex/DSPy or raw APIs; experience with vector DBs (Pinecone/Qdrant/Weaviate/pgvector); prompt engineering/evaluation design; strong communication. Preferred: LoRA/QLoRA, multimodal, MLOps.\n- Link: https://sg.linkedin.com/jobs/view/ai-engineer-remote-at-jobs-ai-4404967530\n\n3) Artificial Intelligence Engineer (LLM / RAG / Agent Systems) — DA Global Financial Holdings Pte. Ltd. (Singapore)\n- Why relevant: Role description and hashtags include RAG, agents, and #LangChain.\n- Key responsibilities: Lead/participate in design and development of AI systems focusing on RAG frameworks, agent workflows, intelligent decision systems, and enterprise deployment.\n- Requirements snapshot: Experienced AI Engineer with proven LLM application implementation; global hiring with emphasis on demonstrated project experience in LLM/AI systems.\n- Link: https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-llm-rag-agent-systems-at-da-global-financial-holdings-pte-ltd-4324047565\n\nNotes\n- LinkedIn may require sign-in to view full details; status can change quickly. Want me to set up alerts or expand the list (e.g., roles mentioning LangGraph/CrewAI in Singapore)?",
+    "sources": [
+        {
+            "url": "https://sg.linkedin.com/jobs/view/agentic-ai-developer-python-llm-langchain-at-luxoft-singapore-4346519373"
+        },
+        {
+            "url": "https://sg.linkedin.com/jobs/view/ai-engineer-remote-at-jobs-ai-4404967530"
+        },
+        {
+            "url": "https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-llm-rag-agent-systems-at-da-global-financial-holdings-pte-ltd-4324047565"
+        }
+    ]
+}
